@@ -12,3 +12,6 @@ You can contribute to this project by submitting a pull request with a descripti
 
 ### License Information
 This project is licensed under the GNU General Public License v3.0.
+
+### Added 4/26/23
+Addded a title and end program display
