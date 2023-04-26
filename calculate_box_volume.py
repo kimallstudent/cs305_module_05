@@ -2,6 +2,11 @@
 # by: Kimberly Allison
 
 def main():
+    # print program title
+    print("Calculate Box Volume")
+    print("====================")
+    
+    # print prompt for user info
     print("Enter the length, width, and height of a box to calculate it's volume")
     
     # get info
@@ -14,6 +19,8 @@ def main():
     
     # print the results
     print("Volume:", volume)
+    print("\n")
     
-  
+    # print program end
+    print("End Program\n")
 main()    
